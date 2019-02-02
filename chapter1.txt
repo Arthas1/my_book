@@ -1,2 +1,3 @@
 zmiana c7
 znmiany na chapter 2 w master
+dopisane zeby zobaczyc w GitHubDesktop
