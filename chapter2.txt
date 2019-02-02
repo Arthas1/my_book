@@ -1,2 +1,3 @@
 Rodział II - Podtytuł 
 hotfix changes
+znmiany na chapter 2 w branch v1.3
